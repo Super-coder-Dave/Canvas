@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://media.istockphoto.com/vectors/color-pencils-background-vector-id1270207626?k=20&m=1270207626&s=170667a&w=0&h=l5L9pYhFj_TVswLznGQ7R60ALyXr5AXLYiiHcWpMaBE=");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+} 
+canvas{
+    border: 3px black solid;
+}
